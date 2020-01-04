@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+
+<html>
+       <head>
+       <meta charset="utf-8">
+       <title>Thèse sur Anakin et son rapport avec le Côté Obscur durant la Prélogie</title>
+
+       <body>
+       	<h1>Tout d'abord je vais parler comme si la Postologie n'existait pas :)
+
+Dans un premier temps faut savoir que rétablir l'équilibre dans la force c'est pas détruire les Sith et laisser les Jedi en vie, donc les " gentils", bien au contraire c'est un équilibre ou ni Jedi ni Sith existe. Voir il existe mais aucun des deux n'a le dessus sur l'autre et inversement.
+
+Ensuite Anakin est effectivement celui qui devais ramener l'équilibre dans la force, et il l'a fait si on prend pas en compte les trois derniers films de merde produit par Disney :)
+
+Dans le 6, Il ne reste qu'un Jedi et Deux Sith, Anakin repasse du " bon côté " en éliminant le dernier Sith.
+L'équilibre dans la force est remis en place, ni Sith ni Jedi ne domine la galaxie ou autre.
+</h1>
+<h2>Dans un second temps, le personnage d'Anakin ne pouvait que sombrer du côté obscur de la force.
+Non seulement car ce n'est pas Qui Gon qui s'en occupait, mais de plus ces faits font que ça n'aurai pas pu marcher :</h2>
+
+<h3>- Rejoins les Jedi beaucoup trop vieux
+
+- Toujours vécu en tant qu'esclave donc n'a pas profité de sa jeunesse :
+
+En autre, ces amourettes avec Padmé.
+
+- Le fait que son potentiel ne soit pas bien exploité par les Jedi, ça le frustre.
+
+- La peur de perdre un être chère à ces yeux : Ce pourquoi le fais qu'il soit trop vieux quand il rejoins les Jedi est un problème, il étais déjà 
+très attaché à sa mère, ensuite Padmé.
+
+- La tentation de Sidious, le fait qu'il puisse faire en sorte de ne jamais perdre les êtres chères à ces yeux va tout faire
+
+( Par exemple, ne plus vivre la même perte qu'il a subi avec sa mère, ce qu'il l'a anéanti ).
+
+</h3>
+<h4>Et pour finir, non Anakin n'a pas toujours été attiré par le CÔTE OBSCUR.
+Il en étais même pas conscient en fait, tous les humains aurait fait ce choix pour ne pas perdre d'être chère.
+
+Je tiens juste à rappeler que non seulement Anakin n'a jamais été Jedi à 100% 
+Mais toujours entre les deux, ces choix sont ni ceux d'un Jedi ou d'un Sith mais plus entre les deux, d'une personne normal qui souhaite préserver les siens par peur de les perdre et de souffrir encore une fois.
+
+En résumé : Anakin n'aurai jamais été attiré par le Côté Obscur si il avait été pris dès son plus jeune âge et si il n'avait pas eu le temps de s'attacher à sa mère.</h4>
+
+<img src="zoro.jpg">
+
+</body>
+
+
+echo "# anakin-c-t-obscur" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/amnshina/anakin-c-t-obscur.git
+git push -u origin master
+
+       </html>
